@@ -2,9 +2,6 @@
 
 This is a simple **Login and Registration Web Application** developed using **Java Servlets and JDBC**. The project demonstrates how to build a basic authentication system with database connectivity using core Java web technologies.
 
-🔗 **GitHub Repository:**  
-https://github.com/Rahulverma143/Login-Registration-App-Using-servlet-And-JDBC
-
 ---
 
 ## 📌 Project Description
@@ -39,7 +36,9 @@ This project is designed for beginners to understand **real-time Java web applic
 - Basic validation
 - Simple and clean UI
 
----
+--
 
-## 📁 Project Structure
+This project is open-source and free to use for learning and educational purposes.
 
+✨ Thank you for visiting this repository!
+⭐ If you found this project helpful, please give it a star.
